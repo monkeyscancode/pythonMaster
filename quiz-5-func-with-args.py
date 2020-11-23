@@ -30,7 +30,7 @@ circle_right(10)
 color('black')
 circle_right(20)
 right(90)
-penup()
+penup()c
 forward(200)
 right(60)
 width(8)
